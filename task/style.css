@@ -1,0 +1,74 @@
+.submit-form{
+	text-align:center;
+	width:400px;
+	height: 200px;
+	display:inline-block;
+
+}
+body{
+	background-image: linear-gradient(red, blue);
+	text-align:center;
+}
+input[type=text]{
+	margin:9px;
+}
+input[type=password]{
+	margin:10px;
+}
+input[type=submit]{
+	margin:10px;
+}
+.page-wrap{
+	text-align: left;
+	width: 1200px;
+	margin: 0 auto;
+}
+.play-form{
+	text-align:center;
+}
+
+.container{
+	text-align:center;
+	width:100%;
+	
+}
+.present-text{
+	font-weight:bold;
+	font-style:italic;
+	font-family:Helvetica;
+	color:#ff3385;
+	font-size: 24px;
+}
+.present{
+	top:10%;
+	width:500px;
+	height:300px;
+	text-align:center;
+	display:inline-block;
+	background-color:yellow;
+	
+
+}
+.buttons{
+	max-width: 700px;
+	display: flex;
+}
+header{
+	width:100%;
+	height:80px;
+	background-color:black;
+}
+p{
+	color:#FFEBCD;
+	display:inline-block;
+	margin-right:40px;
+}
+
+.withdraw-container{
+	display: inline-block;
+}
+.exchange-container{
+	display: inline-block;
+}
+
+
